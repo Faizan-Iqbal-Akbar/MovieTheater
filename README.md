@@ -1,12 +1,11 @@
-Certainly! Let's enhance the README with some attractive formatting and images:
 
-```markdown
-# Movies App with Next.js and TypeScript
+---
 
+# 🎬 Movies App with Next.js and TypeScript 🍿
 
-This project is a Movies App built with Next.js and TypeScript. It allows users to [brief description of what the app does].
+Welcome to the Movies App project! This application is built with Next.js and TypeScript, providing users with [brief description of what the app does].
 
-## Getting Started
+## 🚀 Getting Started
 
 First, clone the repository:
 
@@ -28,7 +27,7 @@ npm install
 yarn install
 ```
 
-## Development Server
+## 🛠️ Development Server
 
 To run the development server:
 
@@ -40,7 +39,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tests
+## 🧪 Tests
 
 This project includes tests using React Testing Library.
 
@@ -52,7 +51,7 @@ npm test
 yarn test
 ```
 
-## Dependencies
+## 📦 Dependencies
 
 List of dependencies used in the project:
 
@@ -62,15 +61,19 @@ List of dependencies used in the project:
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [other dependencies...]
 
-## Screenshots
+## 📸 Screenshots
 
 Add screenshots here to showcase the app in action.
 
-## Contributing
+![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 2](path/to/screenshot2.png)
+
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
+---
