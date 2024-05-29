@@ -3,7 +3,7 @@
 
 # 🎬 Movies App with Next.js and TypeScript 🍿
 
-Welcome to the Movies App project! This application is built with Next.js and TypeScript, providing users with [brief description of what the app does].
+Welcome to the Movies App project! This application is built with Next.js and TypeScript, providing users with [a brief description of what the app does].
 
 ## 🚀 Getting Started
 
@@ -55,11 +55,13 @@ yarn test
 
 List of dependencies used in the project:
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- [other dependencies...]
+| Technology                 | Description                                     |
+|----------------------------|-------------------------------------------------|
+| [Next.js](https://nextjs.org/) | React framework for server-rendered apps      |
+| [React](https://reactjs.org/) | JavaScript library for building user interfaces |
+| [TypeScript](https://www.typescriptlang.org/) | Typed superset of JavaScript              |
+| [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) | Testing utilities for React              |
+| [other dependencies...]    | Additional packages used in the project        |
 
 ## 📸 Screenshots
 
